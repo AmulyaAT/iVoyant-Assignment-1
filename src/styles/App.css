@@ -1,0 +1,24 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-body {
+  display: flex;
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-content {
+  flex: 3;
+  padding: 20px;
+}
+
+.sidebar {
+  padding: 2px;
+  background-color: #f4f4f4;
+}
